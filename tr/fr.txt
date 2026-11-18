@@ -1,0 +1,71 @@
+Deux petits commandos contre une armée de robots-jouets. Cours, saute et tire à travers des niveaux sans fin !
+Jouer
+Niveau
+Niveaux
+Améliorations
+Réglages
+Comment jouer
+Sons
+Musique
+Vibrations
+Tremblement d'écran
+Tir automatique
+Langue
+Auto
+Retour
+Pause
+Reprendre
+Recommencer le niveau
+Retour à la carte
+Partie terminée
+Niveau réussi !
+Score
+Robots
+Pièces
+Bonus de vitesse
+Bonus sans dégât
+Total
+Nouveau record !
+Suivant
+Pièces ×2
+Continuer
+Réessayer
+Carte
+ATTENTION !
+Point de contrôle !
+Niveau le plus loin
+Aventure sans fin : jusqu'où iras-tu ?
+Blaster
+Éventail
+Laser
+Rafale
+Anneau de feu
+Étoiles chercheuses
++1 cœur
+Bouclier !
+Cœur en plus
+Commence chaque niveau avec un cœur de plus
+Départ puissant
+Ton blaster commence plus fort
+Aimant à pièces
+Attire les pièces de plus loin
+MAX
+Stick gauche : bouger, viser en haut ou en diagonale, s'accroupir.
+Bouton saut : sauter. Bas + saut pour descendre d'une plateforme.
+Bouton tir : tirer. Le tir automatique tire tout seul quand des robots apparaissent (modifiable dans Réglages).
+Tire sur les capsules volantes pour de nouvelles armes. Reprends la même arme pour la renforcer !
+C'est parti !
+Politique de confidentialité
+Créé par
+Vidéo indisponible pour le moment. Réessaie plus tard.
+Touche pour passer
+Saut
+Tir
+Avant-poste de la jungle
+Désert au couchant
+Pics glacés
+Montagne de lave
+Ville néon
+Temple perdu
+Forteresse céleste
+Grottes de cristal

@@ -1,0 +1,71 @@
+tag|Two young commandos vs. an army of toy robots. Run, jump and blast through endless stages!
+play|Play
+stage|Stage
+stages|Stages
+upgrades|Upgrades
+settings|Settings
+howto|How to play
+sound|Sound
+music|Music
+vibration|Vibration
+shake|Screen shake
+autofire|Auto-fire
+language|Language
+auto|Auto
+back|Back
+paused|Paused
+resume|Resume
+restart|Restart stage
+quit|Quit to map
+gameover|Game over
+clear|Stage clear!
+score|Score
+enemies|Robots
+coins|Coins
+timebonus|Speed bonus
+nohit|No-hit bonus
+total|Total
+newBest|New best!
+next|Next
+double|×2 coins
+cont|Continue
+retry|Retry
+map|Map
+warning|WARNING!
+checkpoint|Checkpoint!
+furthest|Furthest stage
+endless|Endless adventure — how far can you go?
+w_b|Blaster
+w_s|Spread
+w_l|Laser
+w_r|Rapid
+w_f|Fire Ring
+w_h|Homing Stars
+pHeart|+1 Heart
+pShield|Shield!
+up_hp|Extra heart
+up_hpD|Start every stage with one more heart
+up_pow|Power start
+up_powD|Your blaster starts stronger
+up_mag|Coin magnet
+up_magD|Pull in coins from farther away
+max|MAX
+how1|Left stick: move, aim up or diagonally, crouch.
+how2|Jump button: jump. Down + jump drops through platforms.
+how3|Fire button: shoot. Auto-fire shoots by itself when robots appear (change it in Settings).
+how4|Shoot the flying pods for new weapons. Grab the same weapon again to power it up!
+ok|Let's go!
+privacy|Privacy policy
+madeBy|Made by
+noVideo|Video not available right now. Please try again later.
+tapSkip|Tap to skip
+jump|Jump
+fire|Fire
+th0|Jungle Outpost
+th1|Sunset Desert
+th2|Frosty Peaks
+th3|Lava Mountain
+th4|Neon City
+th5|Lost Temple
+th6|Sky Fortress
+th7|Crystal Caves

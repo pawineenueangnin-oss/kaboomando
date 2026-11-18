@@ -1,0 +1,71 @@
+Dois pequenos comandos contra um exército de robôs de brinquedo. Corra, pule e atire em fases sem fim!
+Jogar
+Fase
+Fases
+Melhorias
+Configurações
+Como jogar
+Som
+Música
+Vibração
+Tremor da tela
+Tiro automático
+Idioma
+Automático
+Voltar
+Pausado
+Continuar
+Reiniciar fase
+Sair para o mapa
+Fim de jogo
+Fase concluída!
+Pontos
+Robôs
+Moedas
+Bônus de velocidade
+Bônus sem dano
+Total
+Novo recorde!
+Próxima
+Moedas ×2
+Continuar
+Tentar de novo
+Mapa
+ATENÇÃO!
+Ponto de controle!
+Fase mais distante
+Aventura sem fim: até onde você vai?
+Blaster
+Leque
+Laser
+Rajada
+Anel de fogo
+Estrelas teleguiadas
++1 coração
+Escudo!
+Coração extra
+Comece cada fase com um coração a mais
+Início forte
+Seu blaster começa mais forte
+Ímã de moedas
+Puxa moedas de mais longe
+MÁX
+Direcional esquerdo: mover, mirar para cima ou na diagonal, agachar.
+Botão de pulo: pular. Baixo + pulo para descer das plataformas.
+Botão de tiro: atirar. O tiro automático atira sozinho quando aparecem robôs (mude em Configurações).
+Atire nas cápsulas voadoras para ganhar armas novas. Pegue a mesma arma de novo para fortalecê-la!
+Vamos lá!
+Política de privacidade
+Feito por
+Vídeo indisponível agora. Tente novamente mais tarde.
+Toque para pular
+Pular
+Atirar
+Posto na selva
+Deserto ao pôr do sol
+Picos gelados
+Montanha de lava
+Cidade neon
+Templo perdido
+Fortaleza do céu
+Cavernas de cristal

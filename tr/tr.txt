@@ -1,0 +1,71 @@
+İki minik komando, oyuncak robot ordusuna karşı. Koş, zıpla ve sonsuz bölümler boyunca ateş et!
+Oyna
+Bölüm
+Bölümler
+Geliştirmeler
+Ayarlar
+Nasıl oynanır
+Ses
+Müzik
+Titreşim
+Ekran sarsıntısı
+Otomatik ateş
+Dil
+Otomatik
+Geri
+Duraklatıldı
+Devam et
+Bölümü yeniden başlat
+Haritaya dön
+Oyun bitti
+Bölüm tamam!
+Puan
+Robotlar
+Altınlar
+Hız bonusu
+Hasarsız bonus
+Toplam
+Yeni rekor!
+Sonraki
+Altın ×2
+Devam
+Tekrar dene
+Harita
+DİKKAT!
+Kontrol noktası!
+En uzak bölüm
+Sonsuz macera: ne kadar ileri gidebilirsin?
+Blaster
+Yelpaze
+Lazer
+Seri atış
+Ateş halkası
+Güdümlü yıldızlar
++1 kalp
+Kalkan!
+Ekstra kalp
+Her bölüme bir kalp fazla ile başla
+Güçlü başlangıç
+Blaster'ın daha güçlü başlar
+Altın mıknatısı
+Altınları daha uzaktan çeker
+MAKS
+Sol çubuk: yürü, yukarı ya da çapraz nişan al, eğil.
+Zıplama tuşu: zıpla. Aşağı + zıpla ile platformdan in.
+Ateş tuşu: ateş et. Otomatik ateş, robotlar görününce kendiliğinden ateş eder (Ayarlar'dan değiştir).
+Yeni silahlar için uçan kapsülleri vur. Aynı silahı tekrar alırsan güçlenir!
+Haydi!
+Gizlilik politikası
+Yapımcı
+Şu anda video yok. Lütfen daha sonra tekrar dene.
+Geçmek için dokun
+Zıpla
+Ateş
+Orman karakolu
+Gün batımı çölü
+Buzlu zirveler
+Lav dağı
+Neon şehir
+Kayıp tapınak
+Gökyüzü kalesi
+Kristal mağaralar

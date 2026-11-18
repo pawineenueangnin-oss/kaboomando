@@ -1,0 +1,71 @@
+Dua komando cilik menentang tentera robot mainan. Lari, lompat dan tembak di peringkat tanpa penghujung!
+Main
+Peringkat
+Pilih peringkat
+Naik taraf
+Tetapan
+Cara bermain
+Bunyi
+Muzik
+Getaran
+Gegaran skrin
+Tembak automatik
+Bahasa
+Automatik
+Kembali
+Dijeda
+Sambung
+Ulang peringkat
+Keluar ke peta
+Permainan tamat
+Peringkat selesai!
+Skor
+Robot
+Syiling
+Bonus kelajuan
+Bonus tanpa cedera
+Jumlah
+Rekod baharu!
+Seterusnya
+Syiling ×2
+Teruskan
+Cuba lagi
+Peta
+AMARAN!
+Titik semak!
+Peringkat terjauh
+Pengembaraan tanpa henti — sejauh mana anda boleh pergi?
+Blaster
+Tabur
+Laser
+Pantas
+Gelang api
+Bintang penjejak
++1 hati
+Perisai!
+Hati tambahan
+Mulakan setiap peringkat dengan satu hati lagi
+Permulaan kuat
+Blaster anda lebih kuat sejak mula
+Magnet syiling
+Tarik syiling dari jarak lebih jauh
+MAKS
+Kayu bedik kiri: bergerak, bidik ke atas atau menyerong, tunduk.
+Butang lompat: lompat. Bawah + lompat untuk turun dari pelantar.
+Butang tembak: tembak. Tembak automatik menembak sendiri apabila robot muncul (tukar dalam Tetapan).
+Tembak kapsul terbang untuk senjata baharu. Ambil senjata yang sama sekali lagi untuk menguatkannya!
+Jom!
+Dasar privasi
+Dibuat oleh
+Video tiada buat masa ini. Sila cuba lagi nanti.
+Ketik untuk langkau
+Lompat
+Tembak
+Pos hutan
+Gurun senja
+Puncak bersalji
+Gunung lava
+Bandar neon
+Kuil yang hilang
+Kubu langit
+Gua kristal

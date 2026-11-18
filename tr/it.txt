@@ -1,0 +1,71 @@
+Due piccoli commando contro un esercito di robot giocattolo. Corri, salta e spara in livelli infiniti!
+Gioca
+Livello
+Livelli
+Potenziamenti
+Impostazioni
+Come si gioca
+Suoni
+Musica
+Vibrazione
+Scossa dello schermo
+Fuoco automatico
+Lingua
+Automatica
+Indietro
+In pausa
+Riprendi
+Ricomincia livello
+Torna alla mappa
+Game over
+Livello superato!
+Punti
+Robot
+Monete
+Bonus velocità
+Bonus senza danni
+Totale
+Nuovo record!
+Avanti
+Monete ×2
+Continua
+Riprova
+Mappa
+ATTENZIONE!
+Checkpoint!
+Livello più lontano
+Avventura infinita: fin dove arriverai?
+Blaster
+Ventaglio
+Laser
+Raffica
+Anello di fuoco
+Stelle a ricerca
++1 cuore
+Scudo!
+Cuore extra
+Inizia ogni livello con un cuore in più
+Partenza potente
+Il tuo blaster parte più forte
+Calamita per monete
+Attira le monete da più lontano
+MAX
+Stick sinistro: muoviti, mira in alto o in diagonale, abbassati.
+Tasto salto: salta. Giù + salto per scendere dalle piattaforme.
+Tasto fuoco: spara. Il fuoco automatico spara da solo quando compaiono i robot (modificabile nelle Impostazioni).
+Spara alle capsule volanti per nuove armi. Raccogli di nuovo la stessa arma per potenziarla!
+Si parte!
+Informativa sulla privacy
+Creato da
+Video non disponibile al momento. Riprova più tardi.
+Tocca per saltare
+Salto
+Fuoco
+Avamposto nella giungla
+Deserto al tramonto
+Vette gelate
+Montagna di lava
+Città al neon
+Tempio perduto
+Fortezza del cielo
+Grotte di cristallo

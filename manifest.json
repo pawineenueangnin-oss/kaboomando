@@ -1,0 +1,20 @@
+{
+ "name": "Kaboomando",
+ "short_name": "Kaboomando",
+ "start_url": "./",
+ "id": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#14112a",
+ "theme_color": "#14112a",
+ "description": "A 90s-arcade style run-and-gun adventure: two young commandos blast toy robots across endless stages and giant bosses!",
+ "lang": "en",
+ "categories": ["games","kids"],
+ "icons": [
+  {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+  {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+  {"src":"icon-maskable-192.png","sizes":"192x192","type":"image/png","purpose":"maskable"},
+  {"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+ ]
+}

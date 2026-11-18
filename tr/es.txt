@@ -1,0 +1,71 @@
+Dos pequeños comandos contra un ejército de robots de juguete. ¡Corre, salta y dispara en fases sin fin!
+Jugar
+Fase
+Fases
+Mejoras
+Ajustes
+Cómo jugar
+Sonido
+Música
+Vibración
+Temblor de pantalla
+Disparo automático
+Idioma
+Automático
+Volver
+En pausa
+Continuar
+Reiniciar fase
+Salir al mapa
+Fin del juego
+¡Fase superada!
+Puntos
+Robots
+Monedas
+Bonus de velocidad
+Bonus sin daño
+Total
+¡Nuevo récord!
+Siguiente
+Monedas ×2
+Continuar
+Reintentar
+Mapa
+¡ATENCIÓN!
+¡Punto de control!
+Fase más lejana
+Aventura sin fin: ¿hasta dónde llegarás?
+Bláster
+Abanico
+Láser
+Ráfaga
+Anillo de fuego
+Estrellas guiadas
++1 corazón
+¡Escudo!
+Corazón extra
+Empieza cada fase con un corazón más
+Inicio potente
+Tu bláster empieza más fuerte
+Imán de monedas
+Atrae monedas desde más lejos
+MÁX
+Stick izquierdo: moverte, apuntar arriba o en diagonal, agacharte.
+Botón de salto: saltar. Abajo + salto para bajar de las plataformas.
+Botón de disparo: disparar. El disparo automático dispara solo cuando aparecen robots (cámbialo en Ajustes).
+Dispara a las cápsulas voladoras para conseguir armas. ¡Recoge la misma arma otra vez para mejorarla!
+¡Vamos!
+Política de privacidad
+Hecho por
+El vídeo no está disponible ahora. Inténtalo más tarde.
+Toca para saltar
+Saltar
+Disparar
+Puesto de la selva
+Desierto del ocaso
+Picos helados
+Montaña de lava
+Ciudad neón
+Templo perdido
+Fortaleza del cielo
+Cuevas de cristal
