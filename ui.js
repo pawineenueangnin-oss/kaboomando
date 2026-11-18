@@ -35,7 +35,7 @@ const UI={cur:'',mapPage:null,
   this.show(`<h2>${esc(T('settings'))}</h2>${tg('snd','sound')}${tg('mus','music')}${tg('vib','vibration')}${tg('shake','shake')}${tg('auto','autofire')}<label class="tg"><span>${esc(T('language'))}</span>${sel}</label>
    <a class="lnk" href="privacy.html" target="_blank" rel="noopener">${esc(T('privacy'))}</a><button class="b" data-a="menu">${esc(T('back'))}</button><div class="credit">${esc(T('madeBy'))} P-Prece Studio · v1</div>`,'settings');
   $('langSel').onchange=e=>{const v=e.target.value;try{if(v==='auto')localStorage.removeItem('kbm_lang');else localStorage.setItem('kbm_lang',v);}catch(_){}LANG=v==='auto'?(localStorage.removeItem('kbm_lang'),detectLang()):v;applyLang();this.settings();};},
- how(after){this.cur='how';this.show(`<h2>${esc(T('howto'))}</h2><div class="how"><p>🕹 ${esc(T('how1'))}</p><p>▲ ${esc(T('how2'))}</p><p>✹ ${esc(T('how3'))}</p><p>📦 ${esc(T('how4'))}</p></div><button class="b big" data-a="${after?'howgo':'menu'}">${esc(T('ok'))}</button>`,'how');},
+ how(after){this.cur='how';this.show(`<h2>${esc(T('howto'))}</h2><div class="how"><p>🕹 ${esc(T('how1'))}</p><p>▲ ${esc(T('how2'))}</p><p>✹ ${esc(T('how3'))}</p><p>📦 ${esc(T('how4'))}</p></div><button class="b big" data-a="${after?'howgo':'menu'}">${esc(T('ok'))}</button>`,'howscr');},
  start(n,opt){SAVE.howto?this._go(n,opt):(this.after=()=>this._go(n,opt),this.how(true));},
  _go(n,opt){SAVE.howto=1;persist();this.hide();this.cur='play';begin(n,opt);},
  pause(){if(G.mode!=='play')return;G.mode='pause';this.cur='pause';for(const k in IN)IN[k]=0;CTRL.ptr={};CTRL.stick=null;const z=$('pz');z.className='scr pz on';
